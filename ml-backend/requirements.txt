@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+tensorflow
+opencv-python==3.4.13.47
+pillow
+scikit-learn
+geopy
+flask_cors

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Footer.css */
+.footer {
+    padding: 20px;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+  }
+  
